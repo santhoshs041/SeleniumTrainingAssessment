@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+/* This class is used to Validate the Confirmation Screen Title after purchase */
+
 public class ValidateConfirmationPage extends Base {
 	WebDriver driver;
 	String PageTitle;

@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+/* This class is used to Print the final purchase details */
+
 public class PrintPurchaseDetails extends Base {
 	WebDriver driver;
 	

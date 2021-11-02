@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+/* This class is used to Enter Personal details in the Purchase screen */	
+
 public class PersonalDetails extends Base {
 	WebDriver driver;
 	

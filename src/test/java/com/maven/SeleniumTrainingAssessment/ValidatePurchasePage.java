@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+/* This class is used to Validate the the Purchase page Title of the travel Web site */
+
 public class ValidatePurchasePage extends Base {
 	WebDriver driver;
 	String PageTitle;

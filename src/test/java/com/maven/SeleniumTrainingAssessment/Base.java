@@ -9,6 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
+
+/* This is the Base Class used to call different browsers by getting input data from Data.properties */
 public class Base {
 
 	public WebDriver driver;

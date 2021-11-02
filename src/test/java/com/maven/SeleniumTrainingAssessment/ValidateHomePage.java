@@ -2,6 +2,8 @@ package com.maven.SeleniumTrainingAssessment;
 
 import org.openqa.selenium.WebDriver;
 
+/* This class is used to Validate the the HomePage Title of the travel Web site */
+
 public class ValidateHomePage extends Base {
 	WebDriver driver;
 	String PageTitle;
